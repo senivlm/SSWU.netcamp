@@ -1,0 +1,15 @@
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\Matrix.exe
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\ref\Matrix.dll
+D:\SSWU .net\Homework\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\ref\Matrix.dll
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\SSWU .net\Homework\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
