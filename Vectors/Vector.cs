@@ -64,7 +64,7 @@ namespace Vectors
             }
             for (int i = 0;i < arr.Length; i++)
             {
-                y = arr[random.Next(0, arr.Length - 1)];
+                y = random.Next(0, arr.Length - 1);
                 z = arr[i];
                 arr[i] = arr[y] ;
                 arr[y] = z; 
