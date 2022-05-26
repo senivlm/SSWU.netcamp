@@ -32,7 +32,8 @@ namespace Matrixclass
             }
         }
 
-        public void FillDiagonalSnake(bool Direction)
+       public  enum DirectionDiagonal {right, down }
+        public void FillDiagonalSnake(DirectionDiagonal Direction)
         {
             if (n != m) { Console.WriteLine("Matrix is not square!"); }
             int counter1 = 1;
@@ -41,7 +42,7 @@ namespace Matrixclass
             for (int i = 0; i < n; i++)
             {
 
-                if (Direction == true)
+                if (Direction == DirectionDiagonal.down)
                 {
                     for (int j = i; j >= 0; j--)
                     {
@@ -53,10 +54,10 @@ namespace Matrixclass
                         }
 
                     }
-                    Direction = false;
+                    Direction = DirectionDiagonal.right;
                     continue;
                 }
-                if (Direction == false)
+                if (Direction == DirectionDiagonal.right)
                 {
                     for (int j = i; j >= 0; j--)
                     {
@@ -67,7 +68,7 @@ namespace Matrixclass
                             break;
                         }
                     }
-                    Direction = true;
+                    Direction = DirectionDiagonal.down;
                     continue;
                 }
             }
