@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Vectors
-{
+{// немає найдовшої послідовності.
+   // Метод еквівалентності не перевизначений
     class Vector
     {
         int[] arr;
