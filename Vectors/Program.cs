@@ -1,6 +1,7 @@
 ﻿using Vectors;
 using System;
-
+//Змінити структуру репозиторію.
+// Не перехоплюються винятки
 Pair pair1 = new Pair(2, 5);
 Pair pair2 = new Pair(2, 5);
 Console.WriteLine(pair1.Equals(pair2));
