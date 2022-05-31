@@ -232,7 +232,7 @@ namespace Vectors
 
 
         public void SortQuick()
-        {
+        {// масив автоматично є референсом. Крім того оскільки це не статичний метод класу, то автоматично доступне поле і виконувати сортування слід над полем.
            QuickSort( ref arr, 0, arr.Length-1);
         }
         public override string ToString()
@@ -244,7 +244,7 @@ namespace Vectors
             }
             return str;
         }
-
+// опорний елемент мав передаватись як параметр
         public static void QuickSort(ref int[] arr, int minindex, int maxindex) // для замінии опорного елементу просто замінимо індекс на minindex або (minindex+maxindex)/2 в стрічці 251
         {
 
