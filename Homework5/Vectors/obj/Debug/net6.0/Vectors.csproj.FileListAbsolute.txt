@@ -1,0 +1,15 @@
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\Vectors.exe
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\Vectors.deps.json
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\Vectors.runtimeconfig.json
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\Vectors.dll
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\ref\Vectors.dll
+D:\SSWU .net\Homework\Vectors\bin\Debug\net6.0\Vectors.pdb
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.csproj.AssemblyReference.cache
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.AssemblyInfoInputs.cache
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.AssemblyInfo.cs
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.csproj.CoreCompileInputs.cache
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.dll
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\ref\Vectors.dll
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.pdb
+D:\SSWU .net\Homework\Vectors\obj\Debug\net6.0\Vectors.genruntimeconfig.cache
