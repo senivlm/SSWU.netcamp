@@ -1,0 +1,15 @@
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\Products.exe
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\Products.deps.json
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\Products.dll
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\ref\Products.dll
+D:\SSWU .net\Homework\Products\bin\Debug\net6.0\Products.pdb
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.dll
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\ref\Products.dll
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.pdb
+D:\SSWU .net\Homework\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
