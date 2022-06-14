@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// немає роботи з винятками, а це вже має бути нормою на постійній основі. Звикаємо!!!
 namespace HomeElectricity
-{
+{//потрібно було користуватись готовим класом для роботи з датами
     struct Date
     {
         public int year;
@@ -30,6 +30,8 @@ namespace HomeElectricity
 
         const int PriceOfkWh = 12;
         int CountOfFlat;
+        //Коли розрізнені колекції є більший шанс помилитись
+        // Ідентифікатори змінних прийнято писати  з малої літери
         string[] Months;
         int[] NumberOfFlat;
         string[] OwnerOfFlat;
@@ -86,7 +88,7 @@ namespace HomeElectricity
                 DatesOfReadings[i].ThirdMonth = date; 
             }
         }
-
+//Файл треба було передати як параметр методу.
         public void ElectricityReport()
         {
             using (StreamWriter writer = new StreamWriter("ElectricityReport.txt", false, Encoding.Default))
