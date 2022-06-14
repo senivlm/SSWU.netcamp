@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 namespace Text
 {
     class TextReader
-    {
+    {//Задача розв'язана при умові, що всі стрічки тексту можна об'єднати в одну. А це не завжди можливо.
+       // зверніть увагу на ідентифікатори!!!!
         string text;
         string FileName;
 
