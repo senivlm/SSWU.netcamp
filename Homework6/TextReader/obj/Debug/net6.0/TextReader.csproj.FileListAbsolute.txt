@@ -1,0 +1,15 @@
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.csproj.AssemblyReference.cache
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.AssemblyInfoInputs.cache
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.AssemblyInfo.cs
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.csproj.CoreCompileInputs.cache
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\TextReader.exe
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\TextReader.deps.json
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\TextReader.runtimeconfig.json
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\TextReader.dll
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\ref\TextReader.dll
+D:\SSWU .net\Homework\TextReader\bin\Debug\net6.0\TextReader.pdb
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.dll
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\ref\TextReader.dll
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.pdb
+D:\SSWU .net\Homework\TextReader\obj\Debug\net6.0\TextReader.genruntimeconfig.cache

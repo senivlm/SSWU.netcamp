@@ -1,0 +1,6 @@
+# 	|Lastname			|Quarter					|Arrears
+  			|Starter	|January	|February	|March	|
+21	|Halunka 	|10030   	|10060  	|10120  	|10220	|2280
+23	|Smith 	|100100   	|10060  	|101200  	|102200	|25200
+26	|Lee 	|0   	|0  	|0  	|0	|0
+29	|Stan 	|10   	|10  	|10  	|10	|0

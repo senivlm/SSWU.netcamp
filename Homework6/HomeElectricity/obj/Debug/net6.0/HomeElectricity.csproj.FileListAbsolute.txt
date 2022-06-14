@@ -1,0 +1,15 @@
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.csproj.AssemblyReference.cache
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.AssemblyInfoInputs.cache
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.AssemblyInfo.cs
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.csproj.CoreCompileInputs.cache
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\HomeElectricity.exe
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\HomeElectricity.deps.json
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\HomeElectricity.runtimeconfig.json
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\HomeElectricity.dll
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\ref\HomeElectricity.dll
+D:\SSWU .net\Homework\HomeElectricity\bin\Debug\net6.0\HomeElectricity.pdb
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.dll
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\ref\HomeElectricity.dll
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.pdb
+D:\SSWU .net\Homework\HomeElectricity\obj\Debug\net6.0\HomeElectricity.genruntimeconfig.cache
